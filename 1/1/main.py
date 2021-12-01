@@ -3,7 +3,7 @@ import math
 number_of_increases = -1
 previous_depth = -math.inf
 
-with open('input.txt', 'r') as file:
+with open('1/input.txt', 'r') as file:
   for line in file:
     stripped_line = line.strip()
     if not stripped_line:
