@@ -1,5 +1,3 @@
-import math
-
 depth = 0
 position = 0
 aim = 0
